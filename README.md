@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anirudh P V (@anirudh-242)
+- 👋 **Hi, I’m Anirudh P V (@anirudh-242)**
 - 👀 I’m interested in **👀 I’m interested in analyzing real-world data, understanding customer journeys, and exploring how data can drive smarter decisions in fast-moving industries.**
 - 🌱 I’m currently learning ... **🌱 I’m currently learning how to turn raw data into meaningful insights using SQL, Power BI, and Python for Data Analysis.**
 - 💞️ I’m looking to collaborate on ... **data-driven projects that solve real-world problems**
